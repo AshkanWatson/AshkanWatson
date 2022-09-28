@@ -1,7 +1,7 @@
-[![MasterHead](https://31.media.tumblr.com/4717a813263f471b0def42d70c835ad5/tumblr_mtw0ojDUCQ1ru39xmo1_500.gif)](https://giphy.com/)
+[![MasterHead](https://www.trio.dev/hubfs/Imported_Blog_Media/python_logo.jpg)]()
 <h1 align="center">Hi 👋, I'm Ashkan</h1>
 <h3 align="center">A Back-End Developer In Iran</h3>
-(img align="right" alt="Coding" width="400" src="")
+(img align="right" alt="Coding" width="600" src="https://c.tenor.com/ZlsLFQje6kkAAAAC/apx-creative.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashkanwatson&label=Profile%20views&color=0e75b6&style=flat" alt="ashkanwatson" /> </p>
 
