@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/ashkanwatson" target="blank"><img src="https://img.shields.io/twitter/follow/ashkanwatson?logo=twitter&style=for-the-badge" alt="ashkanwatson" /></a> </p>
 
-- 🔭 I’m currently working on **LITE**
+- 🔭 I’m currently working on **[LITE](https://github.com/Project-Lite)**
 
 - 🌱 I’m currently learning **Tensorflow / YouTube**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AshkanWatson](https://github.com/AshkanWatson)
+- 👨‍💻 All of my projects are available at **[Repositories](https://github.com/AshkanWatson?tab=repositories)**
 
 - 💬 Ask me about **Linux / Kali**
 
-- 📫 How to reach me **AshkanYadollahiOfficial@Gmail.com**
+- 📫 How to reach me **AshkanWatson@Gmail.com**
 
 - ⚡ Fun fact **Developers in the gaming industry are the happiest**
 
