@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Linux / Kali**
 
-- 📫 How to reach me **AshkanWatson@Gmail.com**
+- 📫 How to reach me **[My Telegram](https://t.me/ashkangamer)**
 
 - ⚡ Fun fact **Developers in the gaming industry are the happiest**
 
