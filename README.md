@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ashkanwatson" target="blank"><img src="https://img.shields.io/twitter/follow/ashkanwatson?logo=twitter&style=for-the-badge" alt="ashkanwatson" /></a> </p>
 
-- 🔭 I’m currently working on **[LITE](https://github.com/Project-Lite)**
+- 🔭 I’m currently working on **[LITE](https://github.com/LiteViper)**
 
 - 🌱 I’m currently learning **Tensorflow / YouTube**
 
