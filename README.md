@@ -1,17 +1,17 @@
 [![Linux](https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif)](https://i.gifer.com/7LIV.gif)
-[![Github]()
+
 
 <h1 align="center"> 💻 Hi, I'm Ashkan</h1> 
 <h3 align="center"><img src=https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif>
 <h3 align="center">A Back-End Developer In Iran</h3>
 <img src="https://c.tenor.com/ZlsLFQje6kkAAAAC/apx-creative.gif" align="right">
   
-![Github Star](https://img.shields.io/github/stars/AshkanWatson?color=black&label=My%20Stars&logo=github&logoColor=black&style=flat-square)
-![Twitter](https://img.shields.io/twitter/follow/AshkanWatson?color=black&label=My%20Flower&logo=twitter&logoColor=black&style=flat-square)
+![Github Star](https://img.shields.io/github/stars/AshkanWatson?color=black&label=%20Stars&logo=github&logoColor=black&style=flat-square)
+![Github Watchers](https://img.shields.io/github/watchers/AshkanWatson/AshkanWatson?color=black&label=Watchers&logo=github&logoColor=black&style=flat-square)
+![Twitter](https://img.shields.io/twitter/follow/AshkanWatson?color=black&label=%20Followers&logo=twitter&logoColor=black&style=flat-square)
 
-  
 [![Telegram](https://img.shields.io/badge/WatsonShop-4d4d4d?style=for-the-badge&logo=telegram&logoColor=black)](https://t.me/Watsonshop/)&nbsp;&nbsp;&nbsp;
-  
+[![Telegram](https://img.shields.io/badge/LiteViper-4d4d4d?style=for-the-badge&logo=telegram&logoColor=black)](https://t.me/LiteViper/)&nbsp;&nbsp;&nbsp;
   
 - 🔭 I’m currently working on **[LiteViper](https://github.com/LiteViper)**
 
