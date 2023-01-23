@@ -1,5 +1,5 @@
-[![Linux](https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif)](https://i.gifer.com/7LIV.gif)
-
+[![Linux](https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif)](https://www.linux.org/)
+![Banner](https://i.gifer.com/Ry6p.gif)
 
 <h1 align="center"> 💻 Hi, I'm Ashkan</h1> 
 <h3 align="center"><img src=https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif>
