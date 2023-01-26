@@ -16,7 +16,7 @@
   
 <h3 align="center">A Back-End Developer In Iran</h3>
 <a href="https://archlinux.org/">
-  <img src="https://c.tenor.com/ZlsLFQje6kkAAAAC/apx-creative.gif" align="right"  width="450" height="450">
+  <img src="https://c.tenor.com/ZlsLFQje6kkAAAAC/apx-creative.gif" align="right"  width="489" height="489">
 </a>
 
 [![Github Star](https://img.shields.io/github/stars/AshkanWatson?color=black&label=%20Stars&logo=github&logoColor=black&style=flat-square)](https://github.com/AshkanWatson/AshkanWatson)
