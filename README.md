@@ -10,6 +10,9 @@
   <a href="https://github.com/AshkanWatson/">
     <img align="left"  height="40" src="https://komarev.com/ghpvc/?username=your-AshkanWatson&style=for-the-badge&color=000000"/>
   </a>
+<!---!  <a href="https://discord.com/channels/@me/727624526363623536">
+    <img align="right" src="https://dcbadge.vercel.app/api/shield/727624526363623536&style=for-the-badge&theme=?theme=clean-inverted&logoColor=000000"/>
+  </a>--->
   
 <h3 align="center">A Back-End Developer In Iran</h3>
 <a href="https://archlinux.org/">
