@@ -1,17 +1,21 @@
 [![Linux](https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif)](https://www.linux.org/)
 <!---![Banner](https://i.gifer.com/Ry6p.gif)--->
 
-<h1 align="center"> 💻 Hi, I'm Ashkan</h1> 
+<h1 align="center">Hi, I'm Ashkan Watson</h1> 
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/AshkanWatson/PacMan">
-    <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" />
+    <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"/>
   </a>
-</p>
-
-<h3 align="center">A Back-End Developer In Iran</h3>
-<img src="https://c.tenor.com/ZlsLFQje6kkAAAAC/apx-creative.gif" align="right">
+  <a href="https://github.com/AshkanWatson/">
+    <img align="left"  height="40" src="https://komarev.com/ghpvc/?username=your-AshkanWatson&style=for-the-badge&color=000000"/>
+  </a>
   
+<h3 align="center">A Back-End Developer In Iran</h3>
+<a href="https://archlinux.org/">
+  <img src="https://c.tenor.com/ZlsLFQje6kkAAAAC/apx-creative.gif" align="right"  width="490" height="490">
+</a>
+
 ![Github Star](https://img.shields.io/github/stars/AshkanWatson?color=black&label=%20Stars&logo=github&logoColor=black&style=flat-square)
 ![Github Watchers](https://img.shields.io/github/watchers/AshkanWatson/AshkanWatson?color=black&label=Watchers&logo=github&logoColor=black&style=flat-square)
 ![Twitter](https://img.shields.io/twitter/follow/AshkanWatson?color=black&label=%20Followers&logo=twitter&logoColor=black&style=flat-square)
