@@ -16,9 +16,9 @@
   <img src="https://c.tenor.com/ZlsLFQje6kkAAAAC/apx-creative.gif" align="right"  width="490" height="490">
 </a>
 
-![Github Star](https://img.shields.io/github/stars/AshkanWatson?color=black&label=%20Stars&logo=github&logoColor=black&style=flat-square)
-![Github Watchers](https://img.shields.io/github/watchers/AshkanWatson/AshkanWatson?color=black&label=Watchers&logo=github&logoColor=black&style=flat-square)
-![Twitter](https://img.shields.io/twitter/follow/AshkanWatson?color=black&label=%20Followers&logo=twitter&logoColor=black&style=flat-square)
+[![Github Star](https://img.shields.io/github/stars/AshkanWatson?color=black&label=%20Stars&logo=github&logoColor=black&style=flat-square)](https://github.com/AshkanWatson/AshkanWatson)
+[![Github Watchers](https://img.shields.io/github/watchers/AshkanWatson/AshkanWatson?color=black&label=Watchers&logo=github&logoColor=black&style=flat-square)](https://github.com/AshkanWatson/AshkanWatson)
+[![Twitter](https://img.shields.io/twitter/follow/AshkanWatson?color=black&label=%20Followers&logo=twitter&logoColor=black&style=flat-square)](https://twitter.com/ashkanwatson)
 
 [![Telegram](https://img.shields.io/badge/WatsonShop-4d4d4d?style=for-the-badge&logo=telegram&logoColor=black)](https://t.me/Watsonshop/)&nbsp;&nbsp;&nbsp;
 [![Telegram](https://img.shields.io/badge/LiteViper-4d4d4d?style=for-the-badge&logo=telegram&logoColor=black)](https://t.me/LiteViper/)&nbsp;&nbsp;&nbsp;
@@ -62,8 +62,8 @@
 
 <h3 align ="center">My Status</h3>
 
-![AshkanWatson Satuts](https://github-readme-stats.vercel.app/api?username=ashkanwatson&show_icons=true&bg_color=00000000&theme=gotham&title_color=#42f5c5&text_color=#42f5c5&icon_color=42f5c5&border_color=42f5c5&bg_color=42f5c5&hide_border=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshkanWatson&layout=demo&show_icons=truebg_color=00000000&theme=gotham&title_color=#42f5c5&text_color=#42f5c5&icon_color=42f5c5&border_color=42f5c5&bg_color=42f5c5&hide_border=false)
+[![AshkanWatson Satuts](https://github-readme-stats.vercel.app/api?username=ashkanwatson&show_icons=true&bg_color=00000000&theme=gotham&title_color=#42f5c5&text_color=#42f5c5&icon_color=42f5c5&border_color=42f5c5&bg_color=42f5c5&hide_border=false)](https://github.com/AshkanWatson/AshkanWatson)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshkanWatson&layout=demo&show_icons=truebg_color=00000000&theme=gotham&title_color=#42f5c5&text_color=#42f5c5&icon_color=42f5c5&border_color=42f5c5&bg_color=42f5c5&hide_border=false)](https://github.com/AshkanWatson/AshkanWatson)
  
 <details>
   <summary align ="center">🦕</summary>
