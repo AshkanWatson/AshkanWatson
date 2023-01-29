@@ -3,13 +3,11 @@
 
 <h1 align="center">Hi, I'm Ashkan Watson</h1> 
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/AshkanWatson/PacMan">
     <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"/>
   </a>
-  <a href="https://github.com/AshkanWatson/">
-    <img align="left"  height="40" src="https://komarev.com/ghpvc/?username=your-AshkanWatson&style=for-the-badge&color=000000"/>
-  </a>
+
 <!---!  <a href="https://discord.com/channels/@me/361782573883719680">
     <img align="right" src="https://dcbadge.vercel.app/api/shield/361782573883719680&style=for-the-badge&theme=?theme=clean-inverted&logoColor=000000"/>
   </a>--->
@@ -20,7 +18,9 @@
 </a>
 
 [![Github Star](https://img.shields.io/github/stars/AshkanWatson?color=black&label=%20Stars&logo=github&logoColor=black&style=flat-square)](https://github.com/AshkanWatson/AshkanWatson)
-[![Github Watchers](https://img.shields.io/github/watchers/AshkanWatson/AshkanWatson?color=black&label=Watchers&logo=github&logoColor=black&style=flat-square)](https://github.com/AshkanWatson/AshkanWatson)
+  <a href="https://github.com/AshkanWatson/">
+    <img height="20" src="https://komarev.com/ghpvc/?username=your-AshkanWatson&style=for-the-badge&color=000000"/>
+  </a>
 [![Twitter](https://img.shields.io/twitter/follow/AshkanWatson?color=black&label=%20Follow%20Me&logo=twitter&logoColor=black&style=flat-square)](https://twitter.com/ashkanwatson)
 
 [![Telegram](https://img.shields.io/badge/WatsonShop-4d4d4d?style=for-the-badge&logo=telegram&logoColor=black)](https://t.me/Watsonshop/)&nbsp;&nbsp;&nbsp;
