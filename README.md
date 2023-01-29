@@ -17,11 +17,11 @@
   <img src="https://c.tenor.com/ZlsLFQje6kkAAAAC/apx-creative.gif" align="right"  width="489" height="489">
 </a>
 
+[![Twitter](https://img.shields.io/twitter/follow/AshkanWatson?color=black&label=%20Follow%20Me&logo=twitter&logoColor=black&style=flat-square)](https://twitter.com/ashkanwatson)
 [![Github Star](https://img.shields.io/github/stars/AshkanWatson?color=black&label=%20Stars&logo=github&logoColor=black&style=flat-square)](https://github.com/AshkanWatson/AshkanWatson)
   <a href="https://github.com/AshkanWatson/">
-    <img height="20" src="https://komarev.com/ghpvc/?username=your-AshkanWatson&style=for-the-badge&color=000000"/>
+    <img height="20" src="https://komarev.com/ghpvc/?username=your-AshkanWatson&style=for-the-badge&color=000000&label=views"/>
   </a>
-[![Twitter](https://img.shields.io/twitter/follow/AshkanWatson?color=black&label=%20Follow%20Me&logo=twitter&logoColor=black&style=flat-square)](https://twitter.com/ashkanwatson)
 
 [![Telegram](https://img.shields.io/badge/WatsonShop-4d4d4d?style=for-the-badge&logo=telegram&logoColor=black)](https://t.me/Watsonshop/)&nbsp;&nbsp;&nbsp;
 [![Telegram](https://img.shields.io/badge/LiteViper-4d4d4d?style=for-the-badge&logo=telegram&logoColor=black)](https://t.me/LiteViper/)&nbsp;&nbsp;&nbsp;
