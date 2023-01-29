@@ -10,8 +10,8 @@
   <a href="https://github.com/AshkanWatson/">
     <img align="left"  height="40" src="https://komarev.com/ghpvc/?username=your-AshkanWatson&style=for-the-badge&color=000000"/>
   </a>
-<!---!  <a href="https://discord.com/channels/@me/727624526363623536">
-    <img align="right" src="https://dcbadge.vercel.app/api/shield/727624526363623536&style=for-the-badge&theme=?theme=clean-inverted&logoColor=000000"/>
+<!---!  <a href="https://discord.com/channels/@me/361782573883719680">
+    <img align="right" src="https://dcbadge.vercel.app/api/shield/361782573883719680&style=for-the-badge&theme=?theme=clean-inverted&logoColor=000000"/>
   </a>--->
   
 <h3 align="center">A Back-End Developer In Iran</h3>
@@ -21,7 +21,7 @@
 
 [![Github Star](https://img.shields.io/github/stars/AshkanWatson?color=black&label=%20Stars&logo=github&logoColor=black&style=flat-square)](https://github.com/AshkanWatson/AshkanWatson)
 [![Github Watchers](https://img.shields.io/github/watchers/AshkanWatson/AshkanWatson?color=black&label=Watchers&logo=github&logoColor=black&style=flat-square)](https://github.com/AshkanWatson/AshkanWatson)
-[![Twitter](https://img.shields.io/twitter/follow/AshkanWatson?color=black&label=%20Followers&logo=twitter&logoColor=black&style=flat-square)](https://twitter.com/ashkanwatson)
+[![Twitter](https://img.shields.io/twitter/follow/AshkanWatson?color=black&label=%20Follow%20Me&logo=twitter&logoColor=black&style=flat-square)](https://twitter.com/ashkanwatson)
 
 [![Telegram](https://img.shields.io/badge/WatsonShop-4d4d4d?style=for-the-badge&logo=telegram&logoColor=black)](https://t.me/Watsonshop/)&nbsp;&nbsp;&nbsp;
 [![Telegram](https://img.shields.io/badge/LiteViper-4d4d4d?style=for-the-badge&logo=telegram&logoColor=black)](https://t.me/LiteViper/)&nbsp;&nbsp;&nbsp;
