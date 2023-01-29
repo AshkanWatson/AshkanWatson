@@ -46,7 +46,7 @@
   
 </p>
 
-<h3 align="left">My Code Social Network :</h3>
+<h3 align="left">Code Social :</h3>
 <p align="left">
   
 [![My Code Social Network](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://linkedin.com/in/ashkanwatson?trk=people-guest_people_search-card)
