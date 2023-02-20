@@ -71,8 +71,9 @@
 
 [![AshkanWatson Satuts](https://github-readme-stats.vercel.app/api?username=AshkanWatson&theme=gotham&border_color=0D1117&bg_color=0D1117)](https://github.com/AshkanWatson/AshkanWatson)
 [![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=AshkanWatson&layout=compact&theme=gotham&border_color=0D1117&bg_color=0D1117)](https://github.com/AshkanWatson/AshkanWatson)
-   
-[![GitHub Streak](https://streak-stats.demolab.com?user=AshkanWatson&theme=gotham&border=0D1117&background=0D1117&currStreakNum=42F5C5&stroke=2CA585&ring=00F5AF&sideNums=289678&currStreakLabel=686868)](https://github.com/AshkanWatson)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AshkanWatson&theme=gotham&border=0D1117&background=0D1117&currStreakNum=42F5C5&stroke=2CA585&ring=00F5AF&sideNums=289678&currStreakLabel=686868"/>
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AshkanWatson&bg_color=0d1117&color=98fbcd&line=009970&point=60fbcf&area=true&hide_border=true)](https://github.com/AshkanWatson)
 
