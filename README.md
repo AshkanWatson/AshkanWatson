@@ -1,4 +1,9 @@
 [![Linux](https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif)](https://www.linux.org/)
+<p align="left">
+  <a href="https://github.com/AshkanWatson">
+    <img src="https://readme-typing-svg.demolab.com?duration=3500&pause=1000&color=289678&width=450&lines=Hi+Im+Ashkan+Watson;A+Python+And+Dart+Developer"
+         </a>
+    
 <!---![Banner](https://i.gifer.com/Ry6p.gif)--->
 
 <h1 align="center">Hi, I'm Ashkan Watson</h1> 
@@ -62,18 +67,20 @@
   </a>
 </p>
 
+#
 
-<h3 align ="center">My Status</h3>
+[![AshkanWatson Satuts](https://github-readme-stats.vercel.app/api?username=AshkanWatson&theme=gotham&border_color=0D1117&bg_color=0D1117)](https://github.com/AshkanWatson/AshkanWatson)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AshkanWatson&theme=gotham&border=0D1117&background=0D1117&currStreakNum=42F5C5&stroke=2CA585&ring=00F5AF&sideNums=289678&currStreakLabel=686868)](https://github.com/AshkanWatson)
 
-[![AshkanWatson Satuts](https://github-readme-stats.vercel.app/api?username=ashkanwatson&show_icons=true&bg_color=00000000&theme=gotham&title_color=#42f5c5&text_color=#42f5c5&icon_color=42f5c5&border_color=42f5c5&bg_color=42f5c5&hide_border=false)](https://github.com/AshkanWatson/AshkanWatson)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshkanWatson&layout=demo&show_icons=truebg_color=00000000&theme=gotham&title_color=#42f5c5&text_color=#42f5c5&icon_color=42f5c5&border_color=42f5c5&bg_color=42f5c5&hide_border=false)](https://github.com/AshkanWatson/AshkanWatson)
- 
-<details>
-  <summary align ="center">🦕</summary>
-
-  
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AshkanWatson&bg_color=0d1117&color=98fbcd&line=009970&point=60fbcf&area=true&hide_border=true)](https://github.com/AshkanWatson)
+#   
 <p align="center">
   <a href="https://github.com/AshkanWatson">
-    <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshkanWatson&layout=compact&theme=gotham&border_color=0D1117&bg_color=0D1117" />
   </a>
 </p>
+
+#
+
+#
+[![Fav Repo](https://github-readme-stats.vercel.app/api/pin/?username=ashkanwatson&repo=YouTubeDn&theme=gotham&border_color=0D1117&bg_color=0D1117)](https://github.com/AshkanWatson/AshkanWatson/YouTubeDn)
