@@ -1,7 +1,7 @@
-[![Linux](https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif)](https://www.linux.org/)
+[![Linux](https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif)](https://www.linux.org/ "Linux Icon")
 <p align="left">
   <a href="https://github.com/AshkanWatson">
-    <img src="https://readme-typing-svg.demolab.com?duration=3500&pause=1000&color=289678&width=450&lines=Hi+Im+Ashkan+Watson;A+Python+And+Dart+Developer"
+  <img src="https://readme-typing-svg.demolab.com?duration=3500&pause=1000&color=289678&width=450&lines=Hi+Im+Ashkan+Watson;A+Python+And+Dart+Developer" alt="Hello World!" title="Hello World!">
          </a>
     
 <!---![Banner](https://i.gifer.com/Ry6p.gif)--->
@@ -10,26 +10,26 @@
 
 <p align="center">
   <a href="https://github.com/AshkanWatson/Pacman">
-    <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"/>
+    <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Python Pac Man Project" title="Python Pac Man Project"/>
   </a>
 
 <!---!  <a href="https://discord.com/channels/@me/361782573883719680">
     <img align="right" src="https://dcbadge.vercel.app/api/shield/361782573883719680&style=for-the-badge&theme=?theme=clean-inverted&logoColor=000000"/>
   </a>--->
   
-<h3 align="center">A Back-End And Front Developer</h3>
+<h3 align="center">A Back-End And Front-End Developer</h3>
 <a href="https://archlinux.org/">
-  <img src="https://c.tenor.com/ZlsLFQje6kkAAAAC/apx-creative.gif" align="right"  width="489" height="489">
+  <img src="https://c.tenor.com/ZlsLFQje6kkAAAAC/apx-creative.gif" align="right"  width="489" height="489" alt="Arch Linux" title="Arch Linux">
 </a>
 
-[![Twitter](https://img.shields.io/twitter/follow/AshkanWatson?color=black&label=%20Follow%20Me&logo=twitter&logoColor=black&style=flat-square)](https://twitter.com/ashkanwatson)
+[![Twitter](https://img.shields.io/twitter/follow/AshkanWatson?color=black&label=%20Follow%20Me&logo=twitter&logoColor=black&style=flat-square)](https://twitter.com/ashkanwatson "My Twitter")
 [![Github Star](https://img.shields.io/github/stars/AshkanWatson?color=black&label=%20Stars&logo=github&logoColor=black&style=flat-square)](https://github.com/AshkanWatson/AshkanWatson)
   <a href="https://github.com/AshkanWatson/">
     <img height="20" src="https://komarev.com/ghpvc/?username=your-AshkanWatson&style=for-the-badge&color=000000&label=views"/>
   </a>
 
-[![Telegram](https://img.shields.io/badge/WatsonShop-4d4d4d?style=for-the-badge&logo=telegram&logoColor=black)](https://t.me/Watsonshop/)&nbsp;&nbsp;&nbsp;
-[![Telegram](https://img.shields.io/badge/LiteViper-4d4d4d?style=for-the-badge&logo=telegram&logoColor=black)](https://t.me/LiteViper/)&nbsp;&nbsp;&nbsp;
+[![Telegram](https://img.shields.io/badge/WatsonShop-4d4d4d?style=for-the-badge&logo=telegram&logoColor=black)](https://t.me/Watsonshop/ "My Shop")&nbsp;&nbsp;&nbsp;
+[![Telegram](https://img.shields.io/badge/LiteViper-4d4d4d?style=for-the-badge&logo=telegram&logoColor=black)](https://t.me/LiteViper/ "My Project")&nbsp;&nbsp;&nbsp;
   
 - 🔭 I’m currently working on **[LiteViper](https://github.com/LiteViper)**
 
@@ -63,7 +63,7 @@
 
 <p align="center">
   <a href="https://github.com/AshkanWatson">
-    <img src="https://skillicons.dev/icons?i=py,dart,django,flutter,bash,discord,bots,docker,figma,xd,ai,ps,ae,pr,firebase,git,github,vscode,visualstudio,androidstudio,vim,idea,linux,cloudflare,gcp,heroku,fastapi,mysql,wordpress,selenium" />
+    <img src="https://skillicons.dev/icons?i=py,dart,django,flutter,bash,discord,bots,docker,figma,xd,ai,ps,ae,pr,firebase,git,github,vscode,visualstudio,androidstudio,vim,idea,linux,cloudflare,gcp,heroku,fastapi,mysql,wordpress,selenium" alt="All Of My Skill" title="All Of My Skill"/>
   </a>
 </p>
 
