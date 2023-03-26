@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?duration=3500&pause=1000&color=289678&width=450&lines=Hi+Im+Ashkan+Watson;A+Python+And+Dart+Developer" alt="Hello World!" title="Hello World!">
          </a>
     
-<!---![Banner](https://i.gifer.com/Ry6p.gif)--->
+
 
 <h1 align="center">Hi, I'm Ashkan Watson</h1> 
 
